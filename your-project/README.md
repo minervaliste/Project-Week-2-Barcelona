@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
-*[Your Name]*
+# Barcelona Immigration Patterns
+*Minerva Liste & Lorenzo Fabritius*
 
-*[Your Cohort, Campus & Date]*
+*Data Analytics, Barcelona, 24.01.2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -16,28 +16,30 @@
 
 
 ## Project Description
-Write a short introduction to your project: 3-5 sentences about the context of your topic and why you chose it.
+In this project, it was our goal to determine the general immigrant profile for the city of Barcelona. On top of this, we wanted to use the data that we found in order to try and determine any immigration patterns. 
 
 ## Questions & Hypotheses
-What are the questions you would like to answer with your analysis? What did you feel were the answers to those questions before answering them with data?
+- What is the most common profile of a Barcelona immigrant?
+- What are the structures of immigrant clusters in different neighbourhoods (similar nationalities, demo profile, etc)
 
 ## Dataset
-What dataset (or datasets) did you use? What is the source of your data? Provide links to the data if available and describe the data briefly.
+Started with data provided in the course on immigration linked to nationality, gender and age. Went to open data to get things such as profession, studies etc. but could not find any datasets linked to immigration that included this.
 
 ## Database
-What is the structure of your database? Have you created more than one table and if yes, how are they related to each other? Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
+One table each for nationality, gender and age. One Master table connecting these 3 tables, containing district code, district name, neighbourhood code, neighbourhood name. Neighbourhood code acts the foreign key in the relationships. 
+
+Include a drawing or computer-generated image of the ERD (Entity Relationship Diagram) of your database.
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+- Search for the right data.
+- Import CSV files data into Sequel Pro and Pandas. Analyse the data according to different parameters.
 
-## Organization
-How did you organize your work? Did you use any tools like a kanban board?
 
 What does your repository look like? Explain your folder and file structure.
 
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/minervaliste/Project-Week-2-Barcelona)  
+[Slides](https://docs.google.com/presentation/d/1a4HEJ368qKvTNCm7AVXx9alHv--Exb2X47clcsYRGkQ/edit#slide=id.p)  
 [Trello](https://trello.com/en)  
