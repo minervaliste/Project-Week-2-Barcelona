@@ -40,6 +40,6 @@ What does your repository look like? Explain your folder and file structure.
 ## Links
 Include links to your repository, slides and kanban board. Feel free to include any other links associated with your project.
 
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
+[Repository](https://github.com/minervaliste/Project-Week-2-Barcelona)  
+[Slides](https://docs.google.com/presentation/d/1a4HEJ368qKvTNCm7AVXx9alHv--Exb2X47clcsYRGkQ/edit#slide=id.p)  
 [Trello](https://trello.com/en)  
