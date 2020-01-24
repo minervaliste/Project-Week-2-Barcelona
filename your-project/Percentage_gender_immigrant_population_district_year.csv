@@ -1,0 +1,101 @@
+year,district_name,gender,immigrants_percentage
+2017,"Ciutat Vella",Female,45.2066
+2017,"Ciutat Vella",Male,54.7934
+2017,Eixample,Female,51.7457
+2017,Eixample,Male,48.2543
+2017,Gràcia,Female,53.6945
+2017,Gràcia,Male,46.3055
+2017,Horta-Guinardó,Female,51.9810
+2017,Horta-Guinardó,Male,48.0190
+2017,"Les Corts",Female,53.6229
+2017,"Les Corts",Male,46.3771
+2017,"Nou Barris",Female,53.1786
+2017,"Nou Barris",Male,46.8214
+2017,"Sant Andreu",Female,51.0339
+2017,"Sant Andreu",Male,48.9661
+2017,"Sant Martí",Female,49.5912
+2017,"Sant Martí",Male,50.4088
+2017,Sants-Montjuïc,Female,49.9101
+2017,Sants-Montjuïc,Male,50.0899
+2017,"Sarrià-Sant Gervasi",Female,53.1202
+2017,"Sarrià-Sant Gervasi",Male,46.8798
+2016,"Ciutat Vella",Female,46.4006
+2016,"Ciutat Vella",Male,53.5994
+2016,Eixample,Female,52.2272
+2016,Eixample,Male,47.7728
+2016,Gràcia,Female,53.1230
+2016,Gràcia,Male,46.8770
+2016,Horta-Guinardó,Female,51.9014
+2016,Horta-Guinardó,Male,48.0986
+2016,"Les Corts",Female,51.5531
+2016,"Les Corts",Male,48.4469
+2016,"Nou Barris",Female,53.5337
+2016,"Nou Barris",Male,46.4663
+2016,"Sant Andreu",Female,51.4623
+2016,"Sant Andreu",Male,48.5377
+2016,"Sant Martí",Female,49.5415
+2016,"Sant Martí",Male,50.4585
+2016,Sants-Montjuïc,Female,50.2680
+2016,Sants-Montjuïc,Male,49.7320
+2016,"Sarrià-Sant Gervasi",Female,53.8133
+2016,"Sarrià-Sant Gervasi",Male,46.1867
+2015,"Ciutat Vella",Female,44.2422
+2015,"Ciutat Vella",Male,55.7578
+2015,Eixample,Female,51.5278
+2015,Eixample,Male,48.4722
+2015,Gràcia,Female,53.3116
+2015,Gràcia,Male,46.6884
+2015,Horta-Guinardó,Female,50.7524
+2015,Horta-Guinardó,Male,49.2476
+2015,"Les Corts",Female,51.4632
+2015,"Les Corts",Male,48.5368
+2015,"Nou Barris",Female,51.1130
+2015,"Nou Barris",Male,48.8870
+2015,"Sant Andreu",Female,49.4633
+2015,"Sant Andreu",Male,50.5367
+2015,"Sant Martí",Female,49.0379
+2015,"Sant Martí",Male,50.9621
+2015,Sants-Montjuïc,Female,49.0652
+2015,Sants-Montjuïc,Male,50.9348
+2015,"Sarrià-Sant Gervasi",Female,53.5002
+2015,"Sarrià-Sant Gervasi",Male,46.4998
+2014,"Ciutat Vella",Female,43.4307
+2014,"Ciutat Vella",Male,56.5693
+2014,Eixample,Female,51.3275
+2014,Eixample,Male,48.6725
+2014,Gràcia,Female,51.7258
+2014,Gràcia,Male,48.2742
+2014,Horta-Guinardó,Female,50.5877
+2014,Horta-Guinardó,Male,49.4123
+2014,"Les Corts",Female,51.5505
+2014,"Les Corts",Male,48.4495
+2014,"Nou Barris",Female,51.0298
+2014,"Nou Barris",Male,48.9702
+2014,"Sant Andreu",Female,49.9394
+2014,"Sant Andreu",Male,50.0606
+2014,"Sant Martí",Female,48.3025
+2014,"Sant Martí",Male,51.6975
+2014,Sants-Montjuïc,Female,47.9273
+2014,Sants-Montjuïc,Male,52.0727
+2014,"Sarrià-Sant Gervasi",Female,52.0683
+2014,"Sarrià-Sant Gervasi",Male,47.9317
+2013,"Ciutat Vella",Female,42.1115
+2013,"Ciutat Vella",Male,57.8885
+2013,Eixample,Female,51.6714
+2013,Eixample,Male,48.3286
+2013,Gràcia,Female,53.3155
+2013,Gràcia,Male,46.6845
+2013,Horta-Guinardó,Female,51.4319
+2013,Horta-Guinardó,Male,48.5681
+2013,"Les Corts",Female,51.2076
+2013,"Les Corts",Male,48.7924
+2013,"Nou Barris",Female,50.0383
+2013,"Nou Barris",Male,49.9617
+2013,"Sant Andreu",Female,49.6619
+2013,"Sant Andreu",Male,50.3381
+2013,"Sant Martí",Female,48.2189
+2013,"Sant Martí",Male,51.7811
+2013,Sants-Montjuïc,Female,48.1307
+2013,Sants-Montjuïc,Male,51.8693
+2013,"Sarrià-Sant Gervasi",Female,53.1702
+2013,"Sarrià-Sant Gervasi",Male,46.8298
